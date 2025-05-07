@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Sándalo",
+    "scientific": "Santalum album",
+    "from": "India",
+    "type": "ritual y espiritual",
+    "uses": "Purificación espiritual, conexión divina y relajación profunda.",
+    "howToUse": "Usar su aceite esencial en difusores o quemar incienso de sándalo.",
+    "img": "https://entresemillas.com/3522-home_default/arbol-del-sandalo-semillas.jpg"
+  },
+  {
+    "name": "Calea Zacatechichi",
+    "scientific": "Calea ternifolia",
+    "from": "México",
+    "type": "espiritual",
+    "uses": "Usada tradicionalmente para inducir sueños lúcidos y visiones.",
+    "howToUse": "Preparar infusión amarga de hojas secas antes de dormir.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/37/Calea_zacatechichi.jpg"
+  },
+  {
+    "name": "Flor de Mayo",
+    "scientific": "Plumeria rubra",
+    "from": "Mesoamérica",
+    "type": "ritual",
+    "uses": "Utilizada en ofrendas y rituales por su simbolismo de vida, muerte y renacimiento.",
+    "howToUse": "Ofrecer sus flores frescas en altares o rituales de purificación.",
+    "img": "https://media.admagazine.com/photos/663ab8194cc60b7bee3bfff7/master/pass/flor-de-mayo.jpg"
+  }
+]
